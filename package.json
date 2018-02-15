@@ -26,6 +26,14 @@
   },
   "author": "Mark Wybrow",
   "license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/markwybrow/node-restapi-scaffold.git",
+    "type": "git"
+  },
+  "bugs": {
+    "url": "https://github.com/markwybrow/node-restapi-scaffold/issues"
+  },
+  "homepage": "https://github.com/markwybrow/node-restapi-scaffold#readme",
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.16.2",
